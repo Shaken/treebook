@@ -1,0 +1,193 @@
+Script started on Wed 27 Mar 2013 11:50:10 AM EDT
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebookparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook$ exit 1[Kls
+[0m[01;34mapp[0m     [01;34mdb[0m   generate  [01;34mlog[0m     Rakefile  [01;34mscript[0m  [01;34mtmp[0m
+[01;34mconfig[0m  [01;34mdoc[0m  [01;34mlib[0m       [01;34mpublic[0m  README    [01;34mtest[0m    [01;34mvendor[0m
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebookparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook$ cd script[K[K[K[K[K[Kapp
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/appparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app$ cd[K[Kls
+[0m[01;34mcontrollers[0m  [01;34mhelpers[0m  [01;34mmodels[0m  [01;34mviews[0m
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/appparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app$ cd model s
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ l s
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ lss[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ cd models[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ cd app[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ exit 1[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ script/server[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ script/server[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ex[7Pit 1[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ cd app[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ cd models[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ ls[K[A]0;parallels@parallels-Parallels-Virtual-Platform: ~/Projects/treebook/app/modelsparallels@parallels-Parallels-Virtual-Platform:~/Projects/treebook/app/models$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP S1="\e[0;32m\u:\W>\e[m"
+[0;32mparallels:models>[mls
+[0;32mparallels:models>[mls
+[0;32mparallels:models>[mk[Kcd v[K[K ..
+[0;32mparallels:app>[mls
+[0m[01;34mcontrollers[0m  [01;34mhelpers[0m  [01;34mmodels[0m  [01;34mviews[0m
+[0;32mparallels:app>[mcd[K[Kls models
+[0;32mparallels:app>[mcd[K[Kls views
+[0m[01;34mlayouts[0m
+[0;32mparallels:app>[mcd views
+[0;32mparallels:views>[mls layouts
+[0;32mparallels:views>[mcd ..
+[0;32mparallels:app>[mcd ..
+[0;32mparallels:treebook>[mscript/generate
+NOTE: Gem.source_index is deprecated, use Specification. It will be removed on or after 2011-11-01.
+Gem.source_index called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/gem_dependency.rb:21.
+NOTE: Gem::SourceIndex#initialize is deprecated with no replacement. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#initialize called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/vendor_gem_source_index.rb:100.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Gem::SourceIndex#add_spec is deprecated, use Specification.add_spec. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#add_spec called from /usr/lib/ruby/vendor_ruby/1.8/rubygems/source_index.rb:91.
+NOTE: Dependency.new w/ a regexp is deprecated.
+Dependency.new called from /usr/lib/ruby/vendor_ruby/rails_generator/lookup.rb:211
+NOTE: Gem.cache is deprecated, use Gem::source_index. It will be removed on or after 2011-08-01.
+Gem.cache called from /usr/lib/ruby/vendor_ruby/rails_generator/lookup.rb:212.
+NOTE: Gem.source_index is deprecated, use Specification. It will be removed on or after 2011-11-01.
+Gem.source_index called from /usr/lib/ruby/vendor_ruby/1.8/rubygems.rb:1152.
+NOTE: Gem::SourceIndex#search is deprecated with no replacement. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#search called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/vendor_gem_source_index.rb:119.
+NOTE: Gem::SourceIndex#search is deprecated with no replacement. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#search called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/vendor_gem_source_index.rb:119.
+NOTE: Gem.cache is deprecated, use Gem::source_index. It will be removed on or after 2011-08-01.
+Gem.cache called from /usr/lib/ruby/vendor_ruby/rails_generator/lookup.rb:234.
+NOTE: Gem.source_index is deprecated, use Specification. It will be removed on or after 2011-11-01.
+Gem.source_index called from /usr/lib/ruby/vendor_ruby/1.8/rubygems.rb:1152.
+NOTE: Gem::SourceIndex#each is deprecated with no replacement. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#each called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/vendor_gem_source_index.rb:123.
+NOTE: Gem::SourceIndex#each is deprecated with no replacement. It will be removed on or after 2011-11-01.
+Gem::SourceIndex#each called from /home/parallels/Projects/treebook/config/../vendor/rails/railties/lib/rails/vendor_gem_source_index.rb:124.
+Usage: script/generate generator [options] [args]
+
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+    -f, --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+
+Installed Generators
+  Builtin: controller, helper, integration_test, mailer, metal, migration, model, observer, performance_test, plugin, resource, scaffold, session_migration
+
+More are available at http://wiki.rubyonrails.org/rails/pages/AvailableGenerators
+  1. Download, for example, login_generator.zip
+  2. Unzip to directory /home/parallels/.rails/generators/login
+     to use the generator with all your Rails apps
+     or to /home/parallels/Projects/treebook/lib/generators/login
+     to use with this app only.
+  3. Run generate with no arguments for usage information
+       script/generate login
+
+Generator gems are also available:
+  1. gem search -r generator
+  2. gem install login_generator
+  3. script/generate login
+
+[0;32mparallels:treebook>[mscript/generate [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksuudo a[K[K[K[K[Kdo spt[K[K[Kapt-get update rails
+[sudo] password for parallels: 
+E: The update command takes no arguments
+[0;32mparallels:treebook>[msudo apt-get update rails[K[K[K[K[K[K
+0% [Working]            Hit http://us.archive.ubuntu.com precise Release.gpg
+            14% [Connecting to security.ubuntu.com (91.189.92.200)] [Connecting to extras.u                                                                               Get:1 http://us.archive.ubuntu.com precise-updates Release.gpg [198 B]
+0% [1 Release.gpg 0 B/198 B 0%] [Connecting to security.ubuntu.com (91.189.92.298% [Connecting to security.ubuntu.com (91.189.92.200)] [Connecting to extras.u                                                                               Hit http://us.archive.ubuntu.com precise-backports Release.gpg
+98% [Connecting to security.ubuntu.com (91.189.92.200)] [Connecting to extras.u                                                                               Hit http://us.archive.ubuntu.com precise Release
+                                                                               98% [Waiting for headers] [Waiting for headers]                                               Get:2 http://us.archive.ubuntu.com precise-updates Release [49.6 kB]
+                                               24% [2 Release 12.0 kB/49.6 kB 24%] [Waiting for headers] [Waiting for headers]24% [Release gpgv 49.6 kB] [2 Release 12.0 kB/49.6 kB 24%] [Waiting for headers                                                                               100% [Release gpgv 49.6 kB] [Waiting for headers] [Waiting for headers]                                                                       Hit http://us.archive.ubuntu.com precise-backports Release
+100% [Release gpgv 49.6 kB] [Waiting for headers] [Waiting for headers]                                                                       Hit http://extras.ubuntu.com precise Release.gpg
+                                                                       100% [Release gpgv 49.6 kB] [Waiting for headers]                                                 Get:3 http://security.ubuntu.com precise-security Release.gpg [198 B]
+100% [Release gpgv 49.6 kB] [Waiting for headers]                                                 Hit http://extras.ubuntu.com precise Release
+100% [Release gpgv 49.6 kB] [Waiting for headers]                                                 Get:4 http://security.ubuntu.com precise-security Release [49.6 kB]
+                                                 64% [Release gpgv 49.6 kB] [4 Release 13.3 kB/49.6 kB 27%]                                                          84% [4 Release 33.8 kB/49.6 kB 68%]                                   84% [2 Release gpgv 49.6 kB] [Waiting for headers] [4 Release 33.8 kB/49.6 kB 6                                                                               84% [Waiting for headers] [4 Release 33.8 kB/49.6 kB 68%]                                                         84% [Release gpgv 49.6 kB] [Waiting for headers] [4 Release 33.8 kB/49.6 kB 68%                                                                               Hit http://us.archive.ubuntu.com precise/main Sources
+                                                                               84% [Release gpgv 49.6 kB] [4 Release 33.8 kB/49.6 kB 68%]                                                          100% [Release gpgv 49.6 kB] [Waiting for headers]                                                 Hit http://us.archive.ubuntu.com precise/restricted Sources
+                                                 Hit http://us.archive.ubuntu.com precise/universe Sources
+                                                 Hit http://us.archive.ubuntu.com precise/multiverse Sources
+                                                 Hit http://us.archive.ubuntu.com precise/main amd64 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/restricted amd64 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/universe amd64 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/multiverse amd64 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/main i386 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/restricted i386 Packages
+                                                 Hit http://us.archive.ubuntu.com precise/universe i386 Packages
+                                                 100% [Release gpgv 49.6 kB]                           100% [Waiting for headers]                          Hit http://us.archive.ubuntu.com precise/multiverse i386 Packages
+                          Hit http://us.archive.ubuntu.com precise/main TranslationIndex
+                          Hit http://us.archive.ubuntu.com precise/multiverse TranslationIndex
+                          Hit http://us.archive.ubuntu.com precise/restricted TranslationIndex
+                          Hit http://us.archive.ubuntu.com precise/universe TranslationIndex
+100% [Waiting for headers]                          Get:5 http://us.archive.ubuntu.com precise-updates/main Sources [372 kB]
+                          35% [Release gpgv 11.9 kB] [5 Sources 65.3 kB/372 kB 18%]                                                         43% [5 Sources 104 kB/372 kB 28%]                                 43% [4 Release gpgv 49.6 kB] [5 Sources 104 kB/372 kB 28%] [Waiting for headers                                                                               55% [5 Sources 160 kB/372 kB 43%] [Waiting for headers]                                                       Hit http://extras.ubuntu.com precise/main Sources
+80% [5 Sources 276 kB/372 kB 74%] [Waiting for headers]                                                       Get:6 http://security.ubuntu.com precise-security/main Sources [64.7 kB]
+                                                       86% [5 Sources 343 kB/372 kB 92%] [6 Sources 16.0 kB/64.7 kB 25%] [Waiting for                                                                                93% [6 Sources 29.7 kB/64.7 kB 46%] [Waiting for headers]                                                         Get:7 http://us.archive.ubuntu.com precise-updates/restricted Sources [5,494 B]
+                                                         Get:8 http://us.archive.ubuntu.com precise-updates/universe Sources [82.7 kB]
+                                                         Get:9 http://us.archive.ubuntu.com precise-updates/multiverse Sources [4,746 B]
+                                                         Get:10 http://us.archive.ubuntu.com precise-updates/main amd64 Packages [592 kB]
+                                                         Hit http://extras.ubuntu.com precise/main amd64 Packages
+                                                         Hit http://extras.ubuntu.com precise/main i386 Packages
+                                                         65% [10 Packages 199 kB/592 kB 34%] [6 Sources 29.7 kB/64.7 kB 46%] [Waiting fo67% [5 Sources bzip2 0 B] [10 Packages 230 kB/592 kB 39%] [6 Sources 29.7 kB/6499% [5 Sources bzip2 0 B] [6 Sources 50.2 kB/64.7 kB 78%] [Waiting for headers]                                                                               Get:11 http://us.archive.ubuntu.com precise-updates/restricted amd64 Packages [10.1 kB]
+98% [5 Sources bzip2 0 B] [11 Packages 0 B/10.1 kB 0%] [6 Sources 50.2 kB/64.7 99% [5 Sources bzip2 0 B] [6 Sources 50.2 kB/64.7 kB 78%] [Waiting for headers]                                                                               Ign http://extras.ubuntu.com precise/main TranslationIndex
+                                                                               99% [5 Sources bzip2 0 B] [6 Sources 50.2 kB/64.7 kB 78%]                                                         Get:12 http://us.archive.ubuntu.com precise-updates/universe amd64 Packages [190 kB]
+                                                         86% [5 Sources bzip2 0 B] [12 Packages 0 B/190 kB 0%] [6 Sources 50.2 kB/64.7 k100% [5 Sources bzip2 0 B] [6 Sources 61.2 kB/64.7 kB 95%] [Waiting for headers                                                                               Get:13 http://us.archive.ubuntu.com precise-updates/multiverse amd64 Packages [9,418 B]
+99% [5 Sources bzip2 0 B] [13 Packages 0 B/9,418 B 0%] [6 Sources 61.2 kB/64.7 100% [5 Sources bzip2 0 B] [6 Sources 61.2 kB/64.7 kB 95%] [Waiting for headers                                                                               Get:14 http://us.archive.ubuntu.com precise-updates/main i386 Packages [602 kB]
+70% [5 Sources bzip2 0 B] [14 Packages 0 B/602 kB 0%] [6 Sources 61.2 kB/64.7 k73% [5 Sources bzip2 0 B] [14 Packages 51.5 kB/602 kB 9%] [Waiting for headers]                                                                               100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]                                                                      Get:15 http://us.archive.ubuntu.com precise-updates/restricted i386 Packages [10.1 kB]
+                                                                      100% [5 Sources bzip2 0 B] [15 Packages 0 B/10.1 kB 0%] [Waiting for headers] [                                                                               100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]                                                                      Get:16 http://us.archive.ubuntu.com precise-updates/universe i386 Packages [192 kB]
+                                                                      91% [5 Sources bzip2 0 B] [16 Packages 0 B/192 kB 0%] [Waiting for headers] [Wa                                                                               Get:17 http://security.ubuntu.com precise-security/restricted Sources [1,950 B]
+                                                                               Get:18 http://security.ubuntu.com precise-security/universe Sources [22.6 kB]
+94% [5 Sources bzip2 0 B] [16 Packages 65.5 kB/192 kB 34%] [Waiting for headers                                                                               100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]                                                                      Get:19 http://us.archive.ubuntu.com precise-updates/multiverse i386 Packages [10.4 kB]
+                                                                      100% [5 Sources bzip2 0 B] [19 Packages 0 B/10.4 kB 0%] [Waiting for headers] [                                                                               100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]                                                                      Hit http://us.archive.ubuntu.com precise-updates/main TranslationIndex
+100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]                                                                      Hit http://us.archive.ubuntu.com precise-updates/multiverse TranslationIndex
+                                                                      Hit http://us.archive.ubuntu.com precise-updates/restricted TranslationIndex
+                                                                      Hit http://us.archive.ubuntu.com precise-updates/universe TranslationIndex
+                                                                      Hit http://us.archive.ubuntu.com precise-backports/main Sources
+                                                                      Hit http://us.archive.ubuntu.com precise-backports/restricted Sources
+                                                                      Hit http://us.archive.ubuntu.com precise-backports/universe Sources
+                                                                      Hit http://us.archive.ubuntu.com precise-backports/multiverse Sources
+                                                                      100% [5 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting                                                                               Hit http://us.archive.ubuntu.com precise-backports/main amd64 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/restricted amd64 Packages
+                                                                               Get:20 http://security.ubuntu.com precise-security/multiverse Sources [1,380 B]
+                                                                               Get:21 http://security.ubuntu.com precise-security/main amd64 Packages [233 kB]
+92% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 37.5 kB/233 kB 16%                                                                               Hit http://us.archive.ubuntu.com precise-backports/universe amd64 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/multiverse amd64 Packages
+92% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 37.5 kB/233 kB 16%                                                                               Hit http://us.archive.ubuntu.com precise-backports/main i386 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/restricted i386 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/universe i386 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/multiverse i386 Packages
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/main TranslationIndex
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/multiverse TranslationIndex
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/restricted TranslationIndex
+94% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 92.9 kB/233 kB 40%                                                                               Hit http://us.archive.ubuntu.com precise-backports/universe TranslationIndex
+                                                                               Hit http://us.archive.ubuntu.com precise/main Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise/multiverse Translation-en
+94% [5 Sources bzip2 0 B] [21 Packages 92.9 kB/233 kB 40%] [Waiting for headers                                                                               Hit http://us.archive.ubuntu.com precise/restricted Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise/universe Translation-en
+95% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 97.0 kB/233 kB 42%                                                                               Hit http://us.archive.ubuntu.com precise-updates/main Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise-updates/multiverse Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise-updates/restricted Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise-updates/universe Translation-en
+95% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 97.0 kB/233 kB 42%                                                                               Hit http://us.archive.ubuntu.com precise-backports/main Translation-en
+95% [5 Sources bzip2 0 B] [Waiting for headers] [21 Packages 97.0 kB/233 kB 42%                                                                               Hit http://us.archive.ubuntu.com precise-backports/multiverse Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/restricted Translation-en
+                                                                               Hit http://us.archive.ubuntu.com precise-backports/universe Translation-en
+95% [5 Sources bzip2 0 B] [21 Packages 97.0 kB/233 kB 42%] [Waiting for headers                                                                               100% [21 Packages 233 kB/233 kB 100%] [Waiting for headers]                                                           Get:22 http://security.ubuntu.com precise-security/restricted amd64 Packages [3,969 B]
+                                                           100% [22 Packages 2,001 B/3,969 B 50%]                                      100% [7 Sources bzip2 0 B] [22 Packages 2,001 B/3,969 B 50%]100% [22 Packages 2,001 B/3,969 B 50%] [Waiting for headers]                                                            100% [8 Sources bzip2 0 B] [22 Packages 2,001 B/3,969 B 50%] [Waiting for heade                                                                               Get:23 http://security.ubuntu.com precise-security/universe amd64 Packages [68.6 kB]
+98% [8 Sources bzip2 0 B] [23 Packages 16.4 kB/68.6 kB 24%] [Waiting for header                                                                               Get:24 http://security.ubuntu.com precise-security/multiverse amd64 Packages [2,186 B]
+                                                                               Get:25 http://security.ubuntu.com precise-security/main i386 Packages [243 kB]
+                                                                               92% [8 Sources bzip2 0 B] [25 Packages 4,096 B/243 kB 2%]92% [25 Packages 4,096 B/243 kB 2%] [Waiting for headers]                                                         92% [9 Sources bzip2 0 B] [25 Packages 4,096 B/243 kB 2%] [Waiting for headers]                                                                               92% [25 Packages 4,096 B/243 kB 2%] [Waiting for headers]                                                         92% [10 Packages bzip2 0 B] [25 Packages 4,096 B/243 kB 2%] [Waiting for header                                                                               100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Ign http://extras.ubuntu.com precise/main Translation-en_US
+                                                  100% [10 Packages bzip2 0 B]                            Get:26 http://security.ubuntu.com precise-security/restricted i386 Packages [3,968 B]
+                            100% [10 Packages bzip2 0 B] [26 Packages 0 B/3,968 B 0%] [Waiting for headers]                                                                               100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Get:27 http://security.ubuntu.com precise-security/universe i386 Packages [70.5 kB]
+                                                  98% [10 Packages bzip2 0 B] [27 Packages 0 B/70.5 kB 0%] [Waiting for headers]                                                                              100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Get:28 http://security.ubuntu.com precise-security/multiverse i386 Packages [2,369 B]
+                                                  100% [10 Packages bzip2 0 B] [28 Packages 0 B/2,369 B 0%] [Waiting for headers]                                                                               100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Hit http://security.ubuntu.com precise-security/main TranslationIndex
+100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Hit http://security.ubuntu.com precise-security/multiverse TranslationIndex
+                                                  Hit http://security.ubuntu.com precise-security/restricted TranslationIndex
+                                                  Hit http://security.ubuntu.com precise-security/universe TranslationIndex
+100% [10 Packages bzip2 0 B] [Waiting for headers]                                                  Ign http://extras.ubuntu.com precise/main Translation-en
+                                                  100% [10 Packages bzip2 0 B]                            Hit http://security.ubuntu.com precise-security/main Translation-en
+                            Hit http://security.ubuntu.com precise-security/multiverse Translation-en
+                            Hit http://security.ubuntu.com precise-security/restricted Translation-en
+100% [10 Packages bzip2 0 B]                            Hit http://security.ubuntu.com precise-security/universe Translation-en
+100% [10 Packages bzip2 0 B]                            100% [Working]              100% [11 Packages bzip2 0 B]                            100% [Working]              100% [12 Packages bzip2 0 B]                            100% [Working]              100% [13 Packages bzip2 0 B]                            100% [Working]              100% [6 Sources bzip2 0 B]                          100% [Working]              100% [14 Packages bzip2 0 B]                            100% [Working]              100% [15 Packages bzip2 0 B]                            100% [Working]              100% [17 Sources bzip2 0 B]                           100% [Working]              100% [18 Sources bzip2 0 B]                           100% [Working]              100% [16 Packages bzip2 0 B]                            100% [Working]              100% [19 Packages bzip2 0 B]                            100% [Working]              100% [20 Sources bzip2 0 B]                           100% [Working]              100% [21 Packages bzip2 0 B]                            100% [Working]              100% [22 Packages bzip2 0 B]                            100% [Working]              100% [23 Packages bzip2 0 B]                            100% [Working]              100% [24 Packages bzip2 0 B]                            100% [Working]              100% [25 Packages bzip2 0 B]                            100% [Working]              100% [26 Packages bzip2 0 B]                            100% [Working]              100% [27 Packages bzip2 0 B]                            100% [Working]              100% [28 Packages bzip2 0 B]                            100% [Working]              Fetched 2,898 kB in 3s (747 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 1%Reading package lists... 7%Reading package lists... 7%Reading package lists... 7%Reading package lists... 7%Reading package lists... 9%Reading package lists... 12%Reading package lists... 18%Reading package lists... 25%Reading package lists... 31%Reading package lists... 31%Reading package lists... 31%Reading package lists... 31%Reading package lists... 31%Reading package lists... 33%Reading package lists... 38%Reading package lists... 38%Reading package lists... 38%Reading package lists... 38%Reading package lists... 39%Reading package lists... 44%Reading package lists... 47%Reading package lists... 53%Reading package lists... 58%Reading package lists... 62%Reading package lists... 62%Reading package lists... 63%Reading package lists... 63%Reading package lists... 64%Reading package lists... 66%Reading package lists... 66%Reading package lists... 66%Reading package lists... 67%Reading package lists... 67%Reading package lists... 67%Reading package lists... 67%Reading package lists... 69%Reading package lists... 74%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 86%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 90%Reading package lists... 90%Reading package lists... 90%Reading package lists... 90%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 92%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%
